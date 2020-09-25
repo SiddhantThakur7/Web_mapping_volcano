@@ -6,3 +6,5 @@ in the folium library and using html markups, click pop-ups.
 Colouring using the value thresholds. Population gradients and colouring using population data.json and setting different thresholds.
 
 Enabling volcanoes and population gradient one at a time or cumilatively is possible.
+
+The Following webmap is exported into a .html file (Map1.html).
